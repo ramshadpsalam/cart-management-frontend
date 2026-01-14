@@ -4,15 +4,15 @@ A modern React application for managing products and shopping carts with role-ba
 
 1. Clone the repository
 
-git clone <repository-url>
+    git clone <repository-url>
 
-cd frontend
+    cd frontend
 
 2. Install dependencies
    
-npm install
+   npm install
 
 3. Start the Development Server
    
-bashnpm start
+    npm start
 
